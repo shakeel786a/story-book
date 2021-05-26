@@ -1,0 +1,12 @@
+{
+  "name": "RNStorybook",
+  "displayName": "RNStorybook",
+  "expo": {
+    "name": "RNStorybook",
+    "slug": "RNStorybook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
